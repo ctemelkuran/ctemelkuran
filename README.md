@@ -7,6 +7,7 @@ Let's connect!
 [<img  width="22" src="https://www.flaticon.com/svg/vstatic/svg/732/732200.svg?token=exp=1619018489~hmac=7a2845c61f6c8adc9fe1b7699e0f724a" align="left" />][gmail]
 
 <br />
+<br />
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctemelkuran&layout=compact&exclude_repo=cs50&theme=dark)](https://github.com/ctemelkuran/github-readme-stats)
 
