@@ -3,7 +3,9 @@
 Let's connect!
 
  <a href="https://www.linkedin.com/in/ctemelkuran/" target="_blank" rel="nofollow"><img width ="24" alt="Linkedin" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1619018229~hmac=17af1f38f3c80a1852c7d502619f67ff" /></a>
- <a href="mailto:ctemelkuran@gmail.com" target="_blank" rel="nofollow"><img alt="Cigir's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/ctemelkuran/" target="_blank" rel="nofollow"><img width ="24" alt="Instagram" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1619018229~hmac=d7782127c27c25f1fd51d78a9c77ca90" /></a>
+  <a href="https://www.twitter.com/cigirtemelkuran/" target="_blank" rel="nofollow"><img width ="24" alt="Twitter" src="https://www.flaticon.com/svg/vstatic/svg/174/174876.svg?token=exp=1619018229~hmac=3ac49c8a8143565eb3c421eac93dd79c" /></a>
+ <a href="mailto:ctemelkuran@gmail.com" target="_blank" rel="nofollow"><img width ="24" alt="Mail Address" src="https://www.flaticon.com/svg/vstatic/svg/732/732200.svg?token=exp=1619018489~hmac=7a2845c61f6c8adc9fe1b7699e0f724a" /></a>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctemelkuran&layout=compact&exclude_repo=cs50&theme=dark)](https://github.com/ctemelkuran/github-readme-stats)
 
