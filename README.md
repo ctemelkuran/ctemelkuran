@@ -2,7 +2,7 @@
 
 Let's connect!
 
- <a href="https://www.linkedin.com/in/ctemelkuran/" target="_blank" rel="nofollow"><img alt="Cigir's Linkedin" src="https://www.flaticon.com/svg/vstatic/svg/145/145807.svg?token=exp=1619017457~hmac=8864fec868164d7e6435f5bf8c93f6e1" /></a>
+ <a href="https://www.linkedin.com/in/ctemelkuran/" target="_blank" rel="nofollow"><img width ="24" alt="Linkedin" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1619018229~hmac=17af1f38f3c80a1852c7d502619f67ff" /></a>
  <a href="mailto:ctemelkuran@gmail.com" target="_blank" rel="nofollow"><img alt="Cigir's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctemelkuran&layout=compact&exclude_repo=cs50&theme=dark)](https://github.com/ctemelkuran/github-readme-stats)
