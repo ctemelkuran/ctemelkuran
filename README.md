@@ -2,7 +2,7 @@
 
 Let's connect!
 
-[<img  width="22" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1619018229~hmac=17af1f38f3c80a1852c7d502619f67ff" align="left" />][linkedin]
+[<img  width="22" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38764/preview.svg" align="left" />][linkedin]
 [<img  width="22" src="https://www.flaticon.com/svg/vstatic/svg/174/174876.svg?token=exp=1619018229~hmac=3ac49c8a8143565eb3c421eac93dd79c" align="left" />][twitter]
 [<img  width="22" src="https://www.flaticon.com/svg/vstatic/svg/732/732200.svg?token=exp=1619018489~hmac=7a2845c61f6c8adc9fe1b7699e0f724a" align="left" />][gmail]
 
