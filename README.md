@@ -2,7 +2,7 @@
 
 Let's connect!
 
-[<img  width="22" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38764/preview.svg" align="left" />][linkedin]
+[<img  width="22" src="social-media-logo/linkedin.png" align="left" />][linkedin]
 [<img  width="22" src="social-media-logo/twitter.png" align="left" />][twitter]
 [<img  width="22" src="https://www.flaticon.com/svg/vstatic/svg/732/732200.svg?token=exp=1619018489~hmac=7a2845c61f6c8adc9fe1b7699e0f724a" align="left" />][gmail]
 
