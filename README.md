@@ -3,7 +3,7 @@
 Let's connect!
 
 [<img  width="22" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38764/preview.svg" align="left" />][linkedin]
-[<img  width="22" src="https://marka-logo.com/wp-content/uploads/2020/04/Twitter-Logo.png" align="left" />][twitter]
+[<img  width="22" src="https://www.googlereklamcim.com/wp-content/uploads/2019/08/twitter-logo-png-transparent.png" align="left" />][twitter]
 [<img  width="22" src="https://www.flaticon.com/svg/vstatic/svg/732/732200.svg?token=exp=1619018489~hmac=7a2845c61f6c8adc9fe1b7699e0f724a" align="left" />][gmail]
 
 <br />
