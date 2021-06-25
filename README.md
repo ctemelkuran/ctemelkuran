@@ -1,7 +1,7 @@
 ### Hello there, welcome 👋
 
 
-- 📫 How to reach me:
+📫 How to reach me:
 
 [<img  width="22" src="social-media-logo/linkedin.png" align="left" />][linkedin]
 [<img  width="22" src="social-media-logo/twitter.png" align="left" />][twitter]
