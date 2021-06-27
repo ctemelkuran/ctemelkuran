@@ -1,5 +1,6 @@
-### Hello there, welcome 👋
+### Hello there! 👋
 
+<img src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/source.gif" width="240" height="133" />
 
 📫 How to reach me:
 
@@ -16,6 +17,8 @@
 [twitter]: https://www.twitter.com/cigirtemelkuran
 [linkedin]: https://www.linkedin.com/in/ctemelkuran
 [gmail]: mailto:ctemelkuran@gmail.com
+
+
 
 <!--
 **ctemelkuran/ctemelkuran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
