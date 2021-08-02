@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/source.gif" width="240" height="133" />
 
-📫 How to reach me:
+📫 How to reach me and connect:
 
 [<img  width="22" src="social-media-logo/linkedin.png" align="left" />][linkedin]
 [<img  width="22" src="social-media-logo/twitter.png" align="left" />][twitter]
