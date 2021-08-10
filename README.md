@@ -13,8 +13,6 @@
 
 ### Technologies
 <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" align="left" width="25" />
-<br />
-### Tools
 <img  width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" align="left" />
 <br />
  
