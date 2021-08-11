@@ -9,12 +9,14 @@
 [<img  width="25" src="social-media-logo/logo-gmail.png" align="left" />][gmail]
 
 <br />
-<br />
 
 ### Technologies
 <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" align="left" width="25" />
 <img  width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" align="left" />
 <br />
+<br />
+
+
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctemelkuran&layout=compact&exclude_repo=cs50&theme=dark)](https://github.com/ctemelkuran/github-readme-stats)
 
