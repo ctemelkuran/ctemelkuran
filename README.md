@@ -25,6 +25,7 @@
 [linkedin]: https://www.linkedin.com/in/ctemelkuran
 [gmail]: mailto:ctemelkuran@gmail.com
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ctemelkuran&theme=onedark&no-frame=true&column=5&row=1)](https://github.com/ctemelkuran/github-profile-trophy)
 
 
 <!--
