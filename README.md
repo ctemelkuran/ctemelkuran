@@ -1,23 +1,31 @@
-### Hello there! 👋
+<h2 align='center'> Hi, there! I'm Çığır Temelkuran! 👋 </h2>
+<img align='right' src=https://media.giphy.com/media/mA1lWnH0loTFzWYoMl/source.gif?cid=790b76112a3a5e064e423b33885f9b52fa91749ff5fba7e5&rid=source.gif&ct=s" width="250">
+<p><img src="https://media.giphy.com/media/JO4lo82apdtaltBhEN/source.gif" width="25"> Currently, an Information Technology Master's student </br><img src="https://media.giphy.com/media/UTM42oXsm82rxFqR80/giphy.gif" width="25">  Learning Java Spring, AWS, Microservices 
+</p>
 
-<img src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/source.gif" width="240" height="133" />
-
-📫 How to reach me and connect:
 
 [<img  width="25" src="social-media-logo/linkedin.png" align="left" />][linkedin]
 [<img  width="25" src="social-media-logo/twitter.png" align="left" />][twitter]
 [<img  width="25" src="social-media-logo/logo-gmail.png" align="left" />][gmail]
 
 <br />
-
-### Technologies
-<img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" align="left" width="25" />
-<img  width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" align="left" />
 <br />
-<br />
+                                                                     
 
-
- 
+```javascript
+const cheer = {
+  code: [Java, C#, Python, Javascript, SQL],
+  tools: [Spring, .NET,  Docker, IntelliJ, Visual-Studio, MySQL],
+  architecture: ["model-view-controller", "multitier"],
+  communities: {
+                     bootcampStudent: "GittiGidiyor",
+                     member: "Kodluyoruz&Patika.dev"                     
+               },
+  favs: "coffee & good music"
+}
+```
+ <br />
+                            
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctemelkuran&layout=compact&exclude_repo=cs50&theme=dark)](https://github.com/ctemelkuran/github-readme-stats)
 
 
@@ -25,21 +33,4 @@
 [linkedin]: https://www.linkedin.com/in/ctemelkuran
 [gmail]: mailto:ctemelkuran@gmail.com
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ctemelkuran&theme=onedark&no-frame=true&column=5&row=1)](https://github.com/ctemelkuran/github-profile-trophy)
-
-
-<!--
-**ctemelkuran/ctemelkuran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
