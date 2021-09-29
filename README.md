@@ -14,8 +14,8 @@
 
 ```javascript
 const cheer = {
-  code: [Java, C#, Python, Javascript, SQL],
-  tools: [Spring, .NET,  Docker, IntelliJ, Visual-Studio, MySQL],
+  tech: [Java, Spring, C#, .NET, Python, Docker, Javascript, MySQL, MongoDB, JSON],
+  tools: [IntelliJ IDEA, Visual-Studio, PyCharm, Postman],
   architecture: ["model-view-controller", "multitier"],
   communities: {
                      bootcampStudent: "GittiGidiyor",
