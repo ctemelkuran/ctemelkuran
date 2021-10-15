@@ -18,7 +18,7 @@ const cheer = {
   tools: [IntelliJ-IDEA, Apache Maven, Hibernate, Visual-Studio, PyCharm, Postman],
   architecture: ["model-view-controller", "multitier"],
   communities: {
-                     bootcampStudent: "GittiGidiyor",
+                     bootcampGraduate: "GittiGidiyor",
                      member: "Kodluyoruz&Patika.dev"                     
                },
   favs: "coffee & good music"
