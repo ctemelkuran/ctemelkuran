@@ -1,6 +1,6 @@
 <h2 align='center'> Hi, there! I'm Çığır Temelkuran! 👋 </h2>
 <img align='right' src=https://media.giphy.com/media/mA1lWnH0loTFzWYoMl/source.gif?cid=790b76112a3a5e064e423b33885f9b52fa91749ff5fba7e5&rid=source.gif&ct=s" width="150">
-<p><img src="https://media.giphy.com/media/JO4lo82apdtaltBhEN/source.gif" width="25"> An Information Technology Master's student </br><img src="https://media.giphy.com/media/UTM42oXsm82rxFqR80/giphy.gif" width="25">  Learning Java Spring, AWS, Microservices 
+<p><img src="https://media.giphy.com/media/JO4lo82apdtaltBhEN/source.gif" width="25"> An Information Technology Master's student </br><img src="https://media.giphy.com/media/UTM42oXsm82rxFqR80/giphy.gif" width="25">  Learning Linux, .NET, AWS, 
 </p>
 
 
@@ -14,8 +14,8 @@
 
 ```javascript
 const cheer = {
-  tech: [Java, Spring, C#, Python, Javascript, MySQL, MongoDB, Docker, JSON, Git],
-  tools: [IntelliJ-IDEA, Apache Maven, Hibernate, Visual-Studio, PyCharm, Postman],
+  tech: [C#.NET, Java, Spring,  Python, Javascript, MySQL, MongoDB, Docker, JSON, Git],
+  tools: [IntelliJ-IDEA, Hibernate, Visual-Studio, PyCharm, Postman],
   architecture: ["model-view-controller", "multitier"],
   communities: {
                      bootcampGraduate: "GittiGidiyor",
