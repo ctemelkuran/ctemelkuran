@@ -25,7 +25,7 @@ const cheer = {
 ```
  <br />
                             
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctemelkuran&layout=compact&exclude_repo=cs50&exclude_repo=google-it-automation&theme=dark)](https://github.com/ctemelkuran/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctemelkuran&layout=compact&exclude_repo=cs50&google-it-automation&theme=dark)](https://github.com/ctemelkuran/github-readme-stats)
 
 
 [twitter]: https://www.twitter.com/cigirtemelkuran
