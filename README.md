@@ -14,7 +14,7 @@
 
 ```javascript
 const cheer = {
-  tech: [C#.NET, Java, Spring,  Python, Javascript, MySQL, Docker, JSON, Git],
+  tech: [C#.NET, Java, Spring,  Python, MySQL, Docker, Git],
   tools: [VS-Code, Jira, IntelliJ-IDEA, Hibernate, Visual-Studio, PyCharm, Postman],
   communities: {
                      bootcampGraduate: "GittiGidiyor",
