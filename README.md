@@ -8,21 +8,7 @@
 [<img  width="25" src="social-media-logo/twitter.png" align="left" />][twitter]
 [<img  width="25" src="social-media-logo/logo-gmail.png" align="left" />][gmail]
 
-<br />
-<br />
-                                                                     
-
-```javascript
-const cheer = {
-  tech: [Kotlin, Quarkus, Angular, Typscript, C#.NET, Java, Spring,  Python, MySQL, Docker, Git],
-  tools: [VS-Code, Jira, IntelliJ-IDEA, Postman],
-  communities: {
-                     bootcampGraduate: "GittiGidiyor",
-                     member: "Kodluyoruz&Patika.dev"                     
-               },
-  favs: "coffee & good music"
-}
-```
+                                                                    
                           
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctemelkuran&layout=compact&exclude_repo=cs50,safety-helmet-detection-yolov5&google-it-automation&theme=dark&)](https://github.com/ctemelkuran/github-readme-stats) -->
 
