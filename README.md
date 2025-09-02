@@ -1,18 +1,20 @@
-<h2 align='center'> Hi, there! I'm Çığır Temelkuran! 👋 </h2>
-<p><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"> Mainly working with Java, Spring Boot, Typescript, and Angular.</br><img src="https://media.giphy.com/media/JO4lo82apdtaltBhEN/source.gif" width="20"> Studied MSc Information Technologies, check my LinkedIn for more biography information.
-</p>
+<h2 align="center">👋 Hey, I'm Çığır (you can say it like "Cheer")</h2>
 
-Reach out to me on LinkedIn:
+I’m a software engineer based in Frankfurt, Germany.  
+Most of my work is with **Java, Spring Boot, Angular, and TypeScript**.  
+I’ve also worked with **Kotlin + Quarkus** for microservices, and used **AWS, Docker, Kubernetes, Terraform, Linux, and Bash** when the job needs it.
 
-[<img  width="25" src="social-media-logo/linkedin.png" align="left" />][linkedin]
-<!--[<img  width="25" src="social-media-logo/twitter.png" align="left" />][twitter] -->
-<!-- [<img  width="25" src="social-media-logo/logo-gmail.png" align="left" />][gmail] -->
+I focus on building software that’s **useful and reliable**, and I try to keep things simple.  
 
-                                                                    
-                          
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctemelkuran&layout=compact&exclude_repo=cs50,safety-helmet-detection-yolov5&google-it-automation&theme=dark&)](https://github.com/ctemelkuran/github-readme-stats) -->
+---
 
-[twitter]: https://www.twitter.com/cigirtemelkuran
-[linkedin]: https://www.linkedin.com/in/ctemelkuran
+### 🛠️ Stuff I work with
+Java · Spring Boot · Angular · TypeScript · PostgreSQL  
+Kotlin · Quarkus · AWS (EC2, VPC, S3, Cognito)  
+Linux · Bash · Docker · Kubernetes · Helm · Terraform  
+Prometheus · Grafana · K6 · GitLab   
 
+---
 
+#### 📫 Don’t be shy, feel free to connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ctemelkuran)
