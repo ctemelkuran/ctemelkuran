@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hey, I'm Çığır (you can say it like "Cheer")</h2>
 
-I’m a software engineer based in Frankfurt, Germany.  
+I’m a software engineer currently based in Frankfurt, Germany.  
 Most of my work is with **Java, Spring Boot, Angular, and TypeScript**.  
 I’ve also worked with **Kotlin + Quarkus** for microservices, and used **AWS, Docker, Kubernetes, Terraform, Linux, and Bash** when the job needs it.
 
