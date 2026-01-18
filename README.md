@@ -1,20 +1,27 @@
-<h2 align="center">👋 Hey, I'm Çığır (you can say it like "Cheer")</h2>
+### 👋 Hey, I'm Çığır (pronounce it like "Cheer")
 
-I’m a software engineer currently based in Frankfurt, Germany.  
-Most of my work is with **Java, Spring Boot, Angular, and TypeScript**.  
-I’ve also worked with **Kotlin + Quarkus** for microservices, and used **AWS, Docker, Kubernetes, Terraform, Linux, and Bash** when the job needs it.
+I'm a software engineer based in Frankfurt, Germany.
 
-I focus on building software that’s **useful and reliable**, and I try to keep things simple.  
+I work primarily with **Java, Spring Boot, Angular, and TypeScript**, building backend services and frontends for production systems. I've also worked with **Kotlin and Quarkus** for microservices, and use **AWS, Docker, Kubernetes, and Terraform** for infrastructure and deployment.
 
 ---
 
-### 🛠️ Stuff I work with
-Java · Spring Boot · Angular · TypeScript · PostgreSQL  
-Kotlin · Quarkus · AWS (EC2, VPC, S3, Cognito)  
-Linux · Bash · Docker · Kubernetes · Helm · Terraform  
-Prometheus · Grafana · K6 · GitLab   
+### 🛠️ Tech I work with
+
+**Backend & Frontend:**  
+Java · Spring Boot · Angular · TypeScript · Kotlin · Quarkus
+
+**Databases & Messaging:**  
+PostgreSQL · Apache Cayenne
+
+**Infrastructure & DevOps:**  
+AWS (EC2, S3, Cognito, IAM) · Docker · Kubernetes · Helm · Terraform · Linux · Bash
+
+**Monitoring & Testing:**  
+Prometheus · Grafana · K6 · SonarQube · GitLab CI/CD
 
 ---
 
-#### 📫 Don’t be shy, feel free to connect
+### 📫 Let's connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ctemelkuran)
