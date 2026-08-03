@@ -2,14 +2,14 @@
 
 I'm a software engineer based in Frankfurt, Germany.
 
-I work primarily with **Java, Spring Boot, Angular, and TypeScript**, building backend services and frontends for production systems. I've also worked with **Kotlin and Quarkus** for microservices, and use **AWS, Docker, Kubernetes, and Terraform** for infrastructure and deployment.
+I work primarily with **Java, Spring Boot, Kotlin, Angular, and TypeScript**, building backend services and frontends for production systems. I've also worked with **Kotlin and Quarkus** for microservices, and use **AWS, Docker, Kubernetes, and Terraform** for infrastructure and deployment.
 
 ---
 
 ### 🛠️ Tech I work with
 
-**Backend & Frontend:**  
-Java · Spring Boot · Angular · TypeScript · Kotlin · Quarkus
+**Backend & Frontend & Mobile :**  
+Java · Kotlin · Spring Boot · Android Compose · Ionic · Angular · TypeScript · Quarkus
 
 **Databases & Messaging:**  
 PostgreSQL · Apache Cayenne
