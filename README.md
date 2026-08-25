@@ -1,15 +1,16 @@
-### 👋 Hey, I'm Çığır (pronounce it like "Cheer")
-
 I'm a software engineer based in Frankfurt, Germany.
 
-I work primarily with **Java, Spring Boot, Kotlin, Angular, and TypeScript**, building backend services and frontends for production systems. I've also worked with **Kotlin and Quarkus** for microservices, and use **AWS, Docker, Kubernetes, and Terraform** for infrastructure and deployment.
+I currently work on large-scale backend systems in **Go**, on feed/discovery-style presentation gateways, alongside **iOS** client work — and I lean heavily on **agentic development** (Claude Code, multi-agent workflows) to move faster across backend, mobile, and infra. Previously I worked primarily with **Java, Spring Boot, Kotlin, Angular, and TypeScript**, building backend services and frontends for production systems, and with **Kotlin and Quarkus** for microservices.
 
 ---
 
 ### 🛠️ Tech I work with
 
-**Backend & Frontend & Mobile :**  
-Java · Kotlin · Spring Boot · Android Compose · Ionic · Angular · TypeScript · Quarkus
+**Backend & Mobile:**  
+Go · Kotlin · Swift · iOS · Java · Spring Boot · Android Compose · Ionic · Angular · TypeScript · Quarkus
+
+**Agentic Development:**  
+Claude Code · multi-agent workflows · AI-assisted code review & migration tooling
 
 **Databases & Messaging:**  
 PostgreSQL · Apache Cayenne
